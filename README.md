@@ -4,7 +4,9 @@ Intelligent payment routing engine for Stellar anchors, USDC settlement, and cro
 
 Stellar Autoramp connects Stellar anchors, liquidity providers, and settlement rails to optimize how fiat and digital assets move across borders.
 
+
 The system evaluates available routes based on:
+
 
 FX rates
 fees
@@ -63,6 +65,8 @@ Stellar Autoramp simplifies this process by creating an intelligent routing laye
 Instead of integrating multiple anchors manually, developers use a unified routing engine that automatically finds the best settlement path.
 
 Example Flow
+
+
 Sender Fiat
    ↓
 Local Anchor
